@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/servermonk/Algorithm-Visualizer.git"
+    "url": "git+https://github.com/harshita9104/algorithm-Visualiser.git"
   },
   "keywords": [
     "graphs",
@@ -18,9 +18,9 @@
   "author": "servermonk, zeddie",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/servermonk/Algorithm-Visualizer/issues"
+    "url": "https://github.com/harshita9104/algorithm-Visualiser/issues"
   },
-  "homepage": "https://github.com/servermonk/Algorithm-Visualizer#readme",
+  "homepage": "https://github.com/harshita9104/algorithm-Visualiser#readme",
   "dependencies": {
     "express": "^4.18.3"
   }
