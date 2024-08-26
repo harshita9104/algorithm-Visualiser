@@ -1,4 +1,4 @@
-// dijkstra algorithm
+// dfs
 
 // importing functions
 import {
